@@ -1,6 +1,8 @@
 import './App.css';
 import "tailwindcss/tailwind.css"
-import { Navbar } from './components/navbar.jsx'
+import React from "react";
+
+import { Navbar } from './components/nav/Navbar.jsx'
 
 
 function App() {
